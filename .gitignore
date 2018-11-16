@@ -1,0 +1,8 @@
+.*.swp
+user.abuild/
+target/
+aports/
+.vagrant
+socket
+*.log
+.idea/
